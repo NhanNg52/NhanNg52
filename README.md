@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NhanNg52
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me: https://www.linkedin.com/in/nhannguyen52/
 - 😄 Pronouns: He/Him
 
